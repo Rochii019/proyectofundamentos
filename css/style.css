@@ -290,18 +290,6 @@ body {
     height: auto;
   }
 
-  .curriculum {
-    margin-top: 20px;
-    margin-left: 100px;
-    margin-right: 20px;
-    width: 500px;
-    height: auto;
-    align-items: center;
-  }
-
-  .titulo-curriculum {
-    margin-top: 20px;
-  }
 
   .fondo-inicio{
     background-color: #f0f0f0;
